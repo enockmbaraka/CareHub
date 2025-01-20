@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d6d5e27-4816-437d-9e47-6b982f208662" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HospitalManagement_Django.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 PROJECT INFO.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hospital/01 PROJECT INFO.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hospitalmanagement/01 PROJECT INFO.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hospitalmanagement/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hospitalmanagement/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/01 PROJECT INFO.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/aboutus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/adminlogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/adminlogin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/adminsignup.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/adminsignup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/contactus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/contactussuccess.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/contactussuccess.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/doctor_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctor_base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/doctorlogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctorlogin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/doctorsignup.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctorsignup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/homebase.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/homebase.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/patient_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patient_base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/patientlogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patientlogin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/patientsignup.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patientsignup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +30,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/codebind/CareHub&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -113,6 +89,8 @@
       <workItem from="1737195694535" duration="1927000" />
       <workItem from="1737208714773" duration="1308000" />
       <workItem from="1737266502566" duration="964000" />
+      <workItem from="1737354740763" duration="48000" />
+      <workItem from="1737354796286" duration="48000" />
     </task>
     <servers />
   </component>
