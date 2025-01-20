@@ -77,10 +77,20 @@ WSGI_APPLICATION = 'hospitalmanagement.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv('config.env')
+print(os.getenv('DB_NAME'))
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',  # Change the engine to MySQL
+        'NAME': os.getenv('DB_NAME'),
+        'USER': os.getenv('DB_USER'),
+        'PASSWORD': os.getenv('DB_PASSWORD'),
+        'HOST': os.getenv('DB_HOST', 'localhost'),
+        'PORT': os.getenv('DB_PORT', '3306'),  # Default MySQL port is 3306
     }
 }
 
