@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d6d5e27-4816-437d-9e47-6b982f208662" name="Changes" comment="">
+    <list default="true" id="90819afa-bd45-4032-bb62-c8122c836378" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/EmobilisFinalProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Django_Lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,9 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="2rOBhVK95As9rT5KhelQ860aqUK" />
+  <component name="ProjectId" id="2rvXI1cdxG8RTHE06bgLevceDsb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +33,6 @@
     &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/codebind/CareHub&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -39,32 +43,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="EmobilisFinalProject" type="Python.DjangoServer" factoryName="Django server">
-      <module name="EmobilisFinalProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,28 +54,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5d6d5e27-4816-437d-9e47-6b982f208662" name="Changes" comment="" />
-      <created>1736420360534</created>
+      <changelist id="90819afa-bd45-4032-bb62-c8122c836378" name="Changes" comment="" />
+      <created>1737440441040</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1736420360534</updated>
-      <workItem from="1736420361591" duration="5140000" />
-      <workItem from="1736853702714" duration="1638000" />
-      <workItem from="1736922423477" duration="3234000" />
-      <workItem from="1737008175892" duration="4431000" />
-      <workItem from="1737104029670" duration="521000" />
-      <workItem from="1737195694535" duration="1927000" />
-      <workItem from="1737208714773" duration="1308000" />
-      <workItem from="1737266502566" duration="964000" />
-      <workItem from="1737354740763" duration="48000" />
-      <workItem from="1737354796286" duration="48000" />
+      <updated>1737440441040</updated>
+      <workItem from="1737440448243" duration="1379000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
   </component>
 </project>
